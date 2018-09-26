@@ -8,7 +8,7 @@ Want to give it a try? Continue reading....
 Firts thing is first, get your environment ready:
 
 1. Download Python [here](https://www.python.org/downloads)
-2. Download or Clone the files in the  **Movie Project**  Repository  
+2. Download or Clone the files in the  **Movie Project**  Repository (``Movie_Trailer.py``, ``media.py``, ``freash_tomatoes.py``)  
 ** Make sure files are saved in the same archive    
 
 How to use the code 
@@ -17,10 +17,14 @@ How to use the code
 4. The file already contains an example of movies. Below is e detail of what information you have to use to update the code with information of the movies you like.
 
   **Code structure:**
-  ``Name_of_the_Movie = media.Movie(movie_title, movie_storyline, poster_image, trailer_youtube)``
+  ``
+  Name_of_the_Movie = media.Movie(movie_title, movie_storyline, poster_image, trailer_youtube)
+  ``
 
   **Example:**
-  ``Life_of_Pi = media.Movie("Life of Pi",
+  ``
+  Life_of_Pi = media.Movie("Life of Pi",
                          "A young man and a tiger in a boat at sea",
                          "https://upload.wikimedia.org/wikipedia/en/5/57/Life_of_Pi_2012_Poster.jpg",
-                         "https://www.youtube.com/watch?v=j9Hjrs6WQ8M")``
+                         "https://www.youtube.com/watch?v=j9Hjrs6WQ8M")
+                        ``
