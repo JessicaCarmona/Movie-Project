@@ -28,7 +28,7 @@ How to use the code
                          "https://upload.wikimedia.org/wikipedia/en/5/57/Life_of_Pi_2012_Poster.jpg",
                          "https://www.youtube.com/watch?v=j9Hjrs6WQ8M")
                         ``
-5. Once you added the movies with all required information, make sure to update the titles in the object ``movies``. Example below:
+5. Once you added the movies with all required information, make sure to update the titles in the object ``movies``. Example:
    ``
    movies = [Life_of_Pi, Avatar, Price_and_Prejudice)
    ``
