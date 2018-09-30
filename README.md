@@ -11,7 +11,7 @@ Firts thing is first, get your environment ready:
 2. Download or Clone the files in the  **Movie Project**  Repository (``Movie_Trailer.py``, ``media.py``, ``freash_tomatoes.py``)  
 ** Make sure files are saved in the same archive    
 
-How to use the code 
+How to use the code: 
 
 3. Open file Movie Trailer. 
 4. The file already contains an example of movies. Below is e detail of what information you have to use to update the code with information of the movies you like.
