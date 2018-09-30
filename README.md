@@ -20,6 +20,7 @@ How to use the code
    ``
    Name_of_the_Movie = media.Movie(title, storyline, poster_image, trailer_url)
    ``
+
    **Example:**
    ``
    Life_of_Pi = media.Movie("Life of Pi",
